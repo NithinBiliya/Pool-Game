@@ -1,7 +1,7 @@
 # Pool-Game
 Pool Game in OpenGL
 
-Its a game of pool developed in OpenGL. 
+2 player 9 ball pool game Built in C and OpenGL.
 
 There are quite a few bugs that needs to be fixed.
 
